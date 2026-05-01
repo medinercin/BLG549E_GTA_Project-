@@ -1,0 +1,16 @@
+{
+  "name": "blg549e_term_project",
+  "version": "1.0.0",
+  "description": "Medine Erçin - 704251008",
+  "main": "progress_report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
