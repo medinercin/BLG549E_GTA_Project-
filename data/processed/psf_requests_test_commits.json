@@ -1,0 +1,454 @@
+[
+  {
+    "sha": "b294b08fe3b08df9f646f64d1250f96193dab066",
+    "message": "Consider urllib3 version has 3 numbers at most (#7375) (#7376)",
+    "date": "2026-04-20T16:24:32Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d2f6bdecc835475c3cfbb83565ea879d7b2712ca",
+    "message": "Clarify decode_unicode behaviour in iter_{content,lines} docstrings (#7365)",
+    "date": "2026-04-15T15:06:46Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 9,
+        "additions": 7,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a044b020dea43230585126901684a0f30ec635a8",
+    "message": "Move DigestAuth hash algorithms to use usedforsecurity=False (#7310)",
+    "date": "2026-04-15T14:56:38Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/auth.py",
+        "changes": 10,
+        "additions": 5,
+        "deletions": 5,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "ef439eb779c1eba7cbdeeeb302b11e1e061b4b7d",
+    "message": "Prevent Response self-reference in redirect history (#7328)",
+    "date": "2026-04-05T15:31:02Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/sessions.py",
+        "changes": 3,
+        "additions": 1,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "111d2b77790bf49943c0dfa09b365371c24aec7e",
+    "message": "v2.33.1",
+    "date": "2026-03-30T16:07:00Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "f0198e6dfc431a2293dc16e1b1e8fcddc910a7f3",
+    "message": "Fix malformed value parsing for Content-Type (#7309)",
+    "date": "2026-03-30T15:27:35Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 15,
+        "additions": 6,
+        "deletions": 9,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "bc7dd0fc4d56e808bcdd85ac2d797b3107c89259",
+    "message": "Fix cosmetic header validity parsing regex (#7308)",
+    "date": "2026-03-30T15:24:49Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/_internal_utils.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "bc04dfd6dad4cb02cd92f5daa81eb562d280a761",
+    "message": "v2.33.0",
+    "date": "2026-03-25T15:06:17Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "66d21cb07bd6255b1280291c4fafb71803cdb3b7",
+    "message": "Merge commit from fork",
+    "date": "2026-03-25T14:57:56Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 13,
+        "additions": 7,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e331a288f369973f5de0ec8901c94cae4fa87286",
+    "message": "Remove unused extraction call (#7292)",
+    "date": "2026-03-25T05:15:21Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 3,
+        "additions": 1,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b2a1d33f571518ca9a6148e7da787cc5827f897a",
+    "message": "Increase chardet upper limit to 8\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+    "date": "2026-03-02T22:49:19Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "4bd79e397304d46dfccd76f36c07f66c0295ff82",
+    "message": "Increase chardet upper limit to 7",
+    "date": "2026-02-22T16:07:16Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5e7cb71cd719394f8fc56ea55da3f58bb22ae2b6",
+    "message": "Bump version to dev for test publish",
+    "date": "2026-02-13T19:30:59Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5f338446f9eabd956e7e132668f330d9de4fc368",
+    "message": "Update docstring for Session.verify to include string support (#6859) (#6865)\n\n\n---------\n\nCo-authored-by: Nate Prewitt <nate.prewitt@gmail.com>",
+    "date": "2026-02-13T02:52:04Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/sessions.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "47914226c2968802f2cdee3f6f0f6e06e4472f64",
+    "message": "Fix empty netrc entry usage (#7205)",
+    "date": "2026-02-13T02:07:05Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "f8bec2f7ca9d7c03981a12ff8866a9b3923f1699",
+    "message": "Fix CI and build failures (#7190)\n\n* Migrate linting from various tooling to Ruff\n\n* Run ruff over codebase\n\n* Drop support for pypy-3.10",
+    "date": "2026-01-30T21:10:27Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 11,
+        "additions": 5,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/_internal_utils.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 14,
+        "additions": 8,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/auth.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/certs.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/exceptions.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/help.py",
+        "changes": 7,
+        "additions": 2,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/hooks.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/models.py",
+        "changes": 8,
+        "additions": 5,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/sessions.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 4,
+        "additions": 1,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b25c87d7cb8d6a18a37fa12442b5f883f9e41741",
+    "message": "v2.32.5",
+    "date": "2025-08-18T20:23:20Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d58d8aa2f45c3575268d6d5250745ef69f9cf8b7",
+    "message": "docs: clarify timeout parameter uses seconds in Session.request (#6994)",
+    "date": "2025-07-18T02:09:19Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "90fee0876aea97c639b3bf698d83a12876d2f160",
+    "message": "Revert caching a default SSLContext (#6767)",
+    "date": "2025-06-13T16:42:08Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 55,
+        "additions": 16,
+        "deletions": 39,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "821770e822a20a21b207b3907ea83878bda1d396",
+    "message": "Bump version and add release notes for v2.32.4",
+    "date": "2025-06-09T15:21:47Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5b4b64c3467fd7a3c03f91ee641aaa348b6bed3b",
+    "message": "Add more tests to prevent regression of CVE 2024 47081\n\nRemove workaround not needed since py38 for os.path.expanduser.",
+    "date": "2025-06-05T14:55:33Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 9,
+        "additions": 1,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "1b7c37ef4e3db003cc52f09da9ab6b947054e245",
+    "message": "Merge pull request #6529 from anupam-arista/patch-1",
+    "date": "2025-02-13T16:49:49Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5d31ddbf7b3f512dd3c61952d2c16e980a2b7dc1",
+    "message": "Update src/requests/models.py\n\nCo-authored-by: Ian Stapleton Cordasco <graffatcolmingov@gmail.com>",
+    "date": "2025-02-12T12:28:07Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a2fd25ff34b66ef71b54dfc90e09a4e4152357f6",
+    "message": "Update models.py",
+    "date": "2025-02-11T15:58:59Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 3,
+        "additions": 1,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d96f9982a276c73ab078b255c94397cf4d7f6cc2",
+    "message": "Update src/requests/models.py\n\nCo-authored-by: Ian Stapleton Cordasco <graffatcolmingov@gmail.com>",
+    "date": "2025-02-11T15:55:29Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  }
+]

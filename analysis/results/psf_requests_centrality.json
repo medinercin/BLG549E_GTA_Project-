@@ -1,0 +1,371 @@
+{
+  "src/requests/adapters.py": {
+    "betweenness": 0.00033119658119658117,
+    "pagerank": 0.02007835363868955,
+    "cochange_degree": 0.055357142857142855,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.03186115516262902,
+    "bug_keyword_density": 0.02364864864864865
+  },
+  "requests/__version__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.020130996165656816,
+    "cochange_degree": 0.055357142857142855,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.05329318075129596,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/hooks.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.02007835363868955,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/hooks.py": {
+    "betweenness": 0.00010683760683760684,
+    "pagerank": 0.02007835363868955,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/packages.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/certs.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/utils.py": {
+    "betweenness": 0.01202991452991453,
+    "pagerank": 0.02264274502442212,
+    "cochange_degree": 0.07857142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.1218023760109147,
+    "bug_keyword_density": 0.03260869565217391
+  },
+  "tests/utils.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.022236739268252873,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/sessions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01884791441995506,
+    "cochange_degree": 0.075,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.15837211994432623,
+    "bug_keyword_density": 0.04411764705882353
+  },
+  "requests/compat.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.05206551893110336,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.12318211446962021,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/status_codes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.021325128926667644,
+    "cochange_degree": 0.04642857142857143,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.03502089693470501,
+    "bug_keyword_density": 0.020618556701030927
+  },
+  "requests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.055357142857142855,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.06121675863788176,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/structures.py": {
+    "betweenness": 0.0019871794871794872,
+    "pagerank": 0.031491054580804735,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "tests/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01719513337580772,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/api.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01884791441995506,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/auth.py": {
+    "betweenness": 0.0006517094017094016,
+    "pagerank": 0.021144993026778875,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/sessions.py": {
+    "betweenness": 0.005459401709401708,
+    "pagerank": 0.01884791441995506,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/status_codes.py": {
+    "betweenness": 0.00042735042735042735,
+    "pagerank": 0.021325128926667644,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/help.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/compat.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.05206551893110336,
+    "cochange_degree": 0.06964285714285715,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.07052884792531856,
+    "bug_keyword_density": 0.03125
+  },
+  "requests/adapters.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.02007835363868955,
+    "cochange_degree": 0.075,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.13647294804931212,
+    "bug_keyword_density": 0.015151515151515152
+  },
+  "src/requests/_internal_utils.py": {
+    "betweenness": 6.41025641025641e-05,
+    "pagerank": 0.025764455805336425,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/api.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01884791441995506,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.09004047684233893,
+    "bug_keyword_density": 0.045454545454545456
+  },
+  "src/requests/exceptions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.023674850060458726,
+    "cochange_degree": 0.04642857142857143,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.021916523139697417,
+    "bug_keyword_density": 0.056338028169014086
+  },
+  "tests/testserver/server.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01719513337580772,
+    "cochange_degree": 0.07321428571428572,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.04190880411281711,
+    "bug_keyword_density": 0.02459016393442623
+  },
+  "src/requests/utils.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.02264274502442212,
+    "cochange_degree": 0.05892857142857143,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0628491365992343,
+    "bug_keyword_density": 0.06521739130434782
+  },
+  "requests/help.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.12318211446962021,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/models.py": {
+    "betweenness": 0.0756517094017094,
+    "pagerank": 0.0468365117781454,
+    "cochange_degree": 0.05714285714285714,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.05212020226506828,
+    "bug_keyword_density": 0.02702702702702703
+  },
+  "tests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.01719513337580772,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.08836646065000371,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.05714285714285714,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.05263250607760983,
+    "bug_keyword_density": 0.030303030303030304
+  },
+  "requests/_internal_utils.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.025764455805336425,
+    "cochange_degree": 0.07142857142857142,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.10502894031018496,
+    "bug_keyword_density": 0.0
+  },
+  "requests/models.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0468365117781454,
+    "cochange_degree": 0.060714285714285714,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.10956700989253428,
+    "bug_keyword_density": 0.023809523809523808
+  },
+  "requests/cookies.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.023925826770123875,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.09714119331442381,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/certs.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/cookies.py": {
+    "betweenness": 0.0004914529914529914,
+    "pagerank": 0.023925826770123875,
+    "cochange_degree": 0.030357142857142857,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "requests/exceptions.py": {
+    "betweenness": 0.0008119658119658121,
+    "pagerank": 0.023674850060458726,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.06188176242251096,
+    "bug_keyword_density": 0.041666666666666664
+  },
+  "src/requests/packages.py": {
+    "betweenness": 6.41025641025641e-05,
+    "pagerank": 0.017601139131976966,
+    "cochange_degree": 0.05714285714285714,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.06491191790034051,
+    "bug_keyword_density": 0.014285714285714285
+  },
+  "tests/compat.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.05165951317493411,
+    "cochange_degree": 0.05357142857142857,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.12318211446962021,
+    "bug_keyword_density": 0.0
+  },
+  "src/requests/__version__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.020130996165656816,
+    "cochange_degree": 0.05178571428571429,
+    "community_id": 0,
+    "community_size": 18,
+    "semantic_degree": 0.03125211735631915,
+    "bug_keyword_density": 0.047619047619047616
+  },
+  "requests/auth.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.021144993026778875,
+    "cochange_degree": 0.04642857142857143,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.08226832229167291,
+    "bug_keyword_density": 0.0
+  },
+  "requests/structures.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.031491054580804735,
+    "cochange_degree": 0.039285714285714285,
+    "community_id": 1,
+    "community_size": 23,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  }
+}

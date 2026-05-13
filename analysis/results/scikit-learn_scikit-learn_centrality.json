@@ -1,0 +1,2972 @@
+{
+  "sklearn/externals/_numpy_compiler_patch.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 8.664309974353642e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0042514116817563095,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_lda.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008733624454148471,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009243103910757939,
+    "bug_keyword_density": 0.024539877300613498
+  },
+  "sklearn/utils/_missing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.00019061481943578014,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "doc/sphinxext/move_gallery_links.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012476606363069245,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006239640989002355,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/isotonic.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011038330907326541,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009146763144763004,
+    "bug_keyword_density": 0.018691588785046728
+  },
+  "sklearn/utils/_show_versions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0015422471754349483,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006105106462845923,
+    "bug_keyword_density": 0.01694915254237288
+  },
+  "sklearn/cluster/_affinity_propagation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013602966659735219,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009184484056210421,
+    "bug_keyword_density": 0.005076142131979695
+  },
+  "sklearn/utils/_bunch.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002062105773896167,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006327662520849767,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/svm/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012095376724197684,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00871125023604797,
+    "bug_keyword_density": 0.014234875444839857
+  },
+  "sklearn/covariance/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neural_network/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005146600124766063,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007048936780048615,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neural_network/_stochastic_optimizers.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.004280169127330699,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.005953968449343962,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/tests/random_seed.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0030151798710750678,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006837437395108771,
+    "bug_keyword_density": 0.014285714285714285
+  },
+  "sklearn/manifold/_t_sne.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012597906702710196,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009607061583952688,
+    "bug_keyword_density": 0.024861878453038673
+  },
+  "sklearn/manifold/_isomap.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012441949123171831,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009333769290990352,
+    "bug_keyword_density": 0.014150943396226415
+  },
+  "sklearn/_build_utils/version.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.003517709849587579,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007081515488715921,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_classification.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013758924239273584,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009871238324535552,
+    "bug_keyword_density": 0.012422360248447204
+  },
+  "sklearn/decomposition/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004713384626048382,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00806383756844115,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/binning.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004037568448048798,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005340558297426996,
+    "bug_keyword_density": 0.021739130434782608
+  },
+  "sklearn/linear_model/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0033097664102030916,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007032470361132589,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_sag.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004106882927843627,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0064147672322679376,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/multiclass.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0033270950301517986,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00783132629518784,
+    "bug_keyword_density": 0.04024767801857585
+  },
+  "sklearn/feature_extraction/text.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.018039093366604284,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009601324919264402,
+    "bug_keyword_density": 0.015570934256055362
+  },
+  "sklearn/metrics/_plot/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/gradient_boosting.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012979136341581756,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008957105363427859,
+    "bug_keyword_density": 0.025380710659898477
+  },
+  "sklearn/metrics/_plot/precision_recall_curve.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003535038469536286,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008789643779818213,
+    "bug_keyword_density": 0.02185792349726776
+  },
+  "sklearn/neighbors/_regression.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013845567339017121,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009290294414042222,
+    "bug_keyword_density": 0.007272727272727273
+  },
+  "sklearn/ensemble/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007884522076661815,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00801534835182405,
+    "bug_keyword_density": 0.009523809523809525
+  },
+  "sklearn/inspection/_pd_utils.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002079434393844874,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007570933585363856,
+    "bug_keyword_density": 0.0
+  },
+  "doc/tutorial/text_analytics/data/movie_reviews/fetch_data.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0001386289595896583,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.004863702981526043,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/grower.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005163928744714771,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007836906630479309,
+    "bug_keyword_density": 0.010362694300518135
+  },
+  "sklearn/preprocessing/_polynomial.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013447009080196854,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008931630005075238,
+    "bug_keyword_density": 0.02046783625730994
+  },
+  "sklearn/utils/deprecation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0007104734178969987,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006319985500317644,
+    "bug_keyword_density": 0.0196078431372549
+  },
+  "sklearn/_loss/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002183406113537118,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005970044276012016,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/frozen/tests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 6.931447979482915e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/tree/_classes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012199348443889929,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009356864758176424,
+    "bug_keyword_density": 0.020642201834862386
+  },
+  "sklearn/utils/sparsefuncs.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0037429819089207735,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005164800028546081,
+    "bug_keyword_density": 0.004807692307692308
+  },
+  "sklearn/kernel_ridge.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014538712136965412,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008662430385844262,
+    "bug_keyword_density": 0.006756756756756757
+  },
+  "sklearn/utils/_unique.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/tests/data/openml/id_42074/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 3.465723989741457e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.1
+  },
+  "sklearn/experimental/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_distance_metric.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0016115616552297774,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00024825549549383386,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/gaussian_process/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005389200804047966,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00678240433421256,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_incremental_pca.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010085256810147639,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008456629170565754,
+    "bug_keyword_density": 0.025806451612903226
+  },
+  "build_tools/azure/update_environments_and_lock_files.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "doc/sphinxext/dropdown_anchors.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012476606363069245,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006299656577072815,
+    "bug_keyword_density": 0.03333333333333333
+  },
+  "sklearn/exceptions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0041415401677410415,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008673431679273971,
+    "bug_keyword_density": 0.009615384615384616
+  },
+  "sklearn/datasets/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006931447979482914,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007441893825458754,
+    "bug_keyword_density": 0.01697792869269949
+  },
+  "sklearn/feature_selection/_sequential.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013585638039786511,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008781443706345503,
+    "bug_keyword_density": 0.0125
+  },
+  "sklearn/decomposition/_fastica.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01391488181881195,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009449764458729207,
+    "bug_keyword_density": 0.008333333333333333
+  },
+  "sklearn/utils/_param_validation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032404519304082622,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004350241468471508,
+    "bug_keyword_density": 0.026607538802660754
+  },
+  "sklearn/preprocessing/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003292437790254384,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009090959010125339,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/_build_utils/openmp_helpers.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.003171137450613433,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004776540213403498,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/inspection/_partial_dependence.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007451306577944132,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008827134538766787,
+    "bug_keyword_density": 0.010830324909747292
+  },
+  "sklearn/cluster/_bicluster.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011194288486864906,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008855066604372732,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/tests/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 8.664309974353642e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_twenty_newsgroups.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0035003812296388716,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0051965086011080755,
+    "bug_keyword_density": 0.014598540145985401
+  },
+  "sklearn/utils/_tags.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0025819643723573853,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007837066579785962,
+    "bug_keyword_density": 0.007692307692307693
+  },
+  "sklearn/gaussian_process/_gpc.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009686698551327371,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007603026174075149,
+    "bug_keyword_density": 0.013888888888888888
+  },
+  "sklearn/metrics/_regression.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005770430442919526,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007316053218320018,
+    "bug_keyword_density": 0.008561643835616438
+  },
+  "sklearn/cluster/_agglomerative.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012147362584043806,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008230618648213459,
+    "bug_keyword_density": 0.0196078431372549
+  },
+  "maint_tools/update_tracking_issue.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.001719610647062417,
+    "bug_keyword_density": 0.02197802197802198
+  },
+  "sklearn/ensemble/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004678727386150967,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006982678381990832,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neural_network/_multilayer_perceptron.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013776252859222292,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009137320198708039,
+    "bug_keyword_density": 0.02313624678663239
+  },
+  "sklearn/cluster/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0033790808899979204,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008170774943336827,
+    "bug_keyword_density": 0.0
+  },
+  "maint_tools/check_pxd_in_installation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0031364802107160185,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004999761739550571,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/_loss/glm_distribution.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0002079434393844874,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0051434698860764825,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_kde.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011124974007070076,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009296938742788738,
+    "bug_keyword_density": 0.028368794326241134
+  },
+  "build_tools/build-meson-editable-install.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0001039717196922437,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005377802018628096,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/externals/_scipy/sparse/csgraph/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001039717196922437,
+    "community_id": 4,
+    "community_size": 3,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/manifold/_locally_linear.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009582726831635129,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007804378694149677,
+    "bug_keyword_density": 0.025157232704402517
+  },
+  "maint_tools/create_issue_from_juint.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/model_selection/_classification_threshold.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004938656685381577,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008721133558776668,
+    "bug_keyword_density": 0.0
+  },
+  "build_tools/azure/get_selected_tests.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 1.7328619948707286e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0002293470333346366,
+    "bug_keyword_density": 0.041666666666666664
+  },
+  "sklearn/metrics/_pairwise_distances_reduction/_dispatcher.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002911208151382824,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007225816471119376,
+    "bug_keyword_density": 0.018404907975460124
+  },
+  "sklearn/utils/_plotting.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0005025299785125113,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007494873277041738,
+    "bug_keyword_density": 0.014492753623188406
+  },
+  "sklearn/feature_extraction/_dict_vectorizer.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009097525473071324,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007982664767509083,
+    "bug_keyword_density": 0.007194244604316547
+  },
+  "build_tools/wheels/check_license.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_svmlight_format_io.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005631801483329868,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0063944060970742445,
+    "bug_keyword_density": 0.0053475935828877
+  },
+  "sklearn/linear_model/_quantile.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013897553198863242,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007182187847363931,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/multioutput.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015231856934913704,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009522287908509052,
+    "bug_keyword_density": 0.020202020202020204
+  },
+  "sklearn/utils/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008854924793789423,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008522319424506448,
+    "bug_keyword_density": 0.012358393408856848
+  },
+  "sklearn/cross_decomposition/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/compose/_target.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011800790185069661,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006774878645297521,
+    "bug_keyword_density": 0.011834319526627219
+  },
+  "sklearn/linear_model/_glm/link.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001386289595896583,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_pprint.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00019061481943578014,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.002256612155241389,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/externals/_scipy/sparse/csgraph/_laplacian.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.006162885299340546,
+    "cochange_degree": 0.0020447771539474596,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.004559494409104166,
+    "bug_keyword_density": 0.029411764705882353
+  },
+  "sklearn/mixture/_gaussian_mixture.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006238303181534623,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0075520265813537575,
+    "bug_keyword_density": 0.034722222222222224
+  },
+  "sklearn/_config.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005163928744714771,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0073254968000527,
+    "bug_keyword_density": 0.008169934640522876
+  },
+  "sklearn/utils/_encode.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002737921951895751,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0016303885845800638,
+    "bug_keyword_density": 0.030575539568345324
+  },
+  "doc/tutorial/machine_learning_map/svg2imagemap.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012476606363069245,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006434746301545893,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/extmath.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007416649338046718,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008524154761823808,
+    "bug_keyword_density": 0.007874015748031496
+  },
+  "sklearn/ensemble/_bagging.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015405143134400777,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009475822558482967,
+    "bug_keyword_density": 0.009404388714733543
+  },
+  "sklearn/inspection/_plot/partial_dependence.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006082345601996257,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009715504611116806,
+    "bug_keyword_density": 0.01818181818181818
+  },
+  "sklearn/linear_model/_glm/glm.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009877313370763153,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006775667602805122,
+    "bug_keyword_density": 0.013501350135013501
+  },
+  "sklearn/externals/_scipy/sparse/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001039717196922437,
+    "community_id": 4,
+    "community_size": 3,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01627157413183614,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009799229768955314,
+    "bug_keyword_density": 0.01588785046728972
+  },
+  "sklearn/__check_build/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0050079711651764055,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0030976903577870675,
+    "bug_keyword_density": 0.0
+  },
+  "build_tools/get_comment.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0014382754557427046,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0005733562219233034,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cross_decomposition/_pls.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012684549802453732,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009723428247850198,
+    "bug_keyword_density": 0.03214285714285714
+  },
+  "sklearn/model_selection/_search_successive_halving.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010761072988147224,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008442668972790631,
+    "bug_keyword_density": 0.023952095808383235
+  },
+  "doc/sphinxext/custom_references_resolver.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_indexing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00024260067928190198,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006590156822542678,
+    "bug_keyword_density": 0.04081632653061224
+  },
+  "sklearn/discriminant_analysis.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013810910099119706,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00974583287078095,
+    "bug_keyword_density": 0.009852216748768473
+  },
+  "sklearn/decomposition/_dict_learning.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01609828793234907,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009280429983896854,
+    "bug_keyword_density": 0.014625228519195612
+  },
+  "sklearn/utils/_set_output.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0007451306577944132,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.002772888793193815,
+    "bug_keyword_density": 0.040983606557377046
+  },
+  "sklearn/feature_selection/_from_model.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010709087128301101,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008155777935102233,
+    "bug_keyword_density": 0.021442495126705652
+  },
+  "sklearn/cluster/_spectral.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.016306231371733555,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009503716904143986,
+    "bug_keyword_density": 0.010582010582010581
+  },
+  "sklearn/metrics/cluster/_supervised.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00887225341373813,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006827538806069401,
+    "bug_keyword_density": 0.017341040462427744
+  },
+  "doc/tutorial/machine_learning_map/pyparsing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012303320163582173,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006398251308433306,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_theil_sen.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010362514729326956,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007959411180304927,
+    "bug_keyword_density": 0.041379310344827586
+  },
+  "sklearn/metrics/_ranking.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008196437235738546,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007731439525896727,
+    "bug_keyword_density": 0.03129074315514994
+  },
+  "build_tools/update_environments_and_lock_files.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0056491301032785745,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005408773687667616,
+    "bug_keyword_density": 0.010183299389002037
+  },
+  "sklearn/inspection/_plot/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/metrics/cluster/_unsupervised.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005857073542663062,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00610452089272109,
+    "bug_keyword_density": 0.011764705882352941
+  },
+  "sklearn/utils/_user_interface.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 6.931447979482915e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_stochastic_gradient.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01805642198655299,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.010396982666969718,
+    "bug_keyword_density": 0.020089285714285716
+  },
+  "sklearn/utils/metaestimators.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0035696957094337005,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007718382092156009,
+    "bug_keyword_density": 0.03597122302158273
+  },
+  "sklearn/covariance/_empirical_covariance.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011124974007070076,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008036668821125456,
+    "bug_keyword_density": 0.006896551724137931
+  },
+  "sklearn/feature_extraction/_stop_words.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_mocking.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0019408054342552159,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007604536478162,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/class_weight.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0033097664102030916,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007287247315553825,
+    "bug_keyword_density": 0.01680672268907563
+  },
+  "sklearn/externals/_scipy/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001039717196922437,
+    "community_id": 4,
+    "community_size": 3,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neural_network/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.006082345601996257,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0011551794443894496,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006272960421432037,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0081588130512013,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/feature_selection/_univariate_selection.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012268662923684759,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00962427868490207,
+    "bug_keyword_density": 0.015267175572519083
+  },
+  "sklearn/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0050426284050738195,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007793847451439475,
+    "bug_keyword_density": 0.006172839506172839
+  },
+  "doc/sphinxext/add_toctree_functions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012303320163582173,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/feature_selection/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009981285090455396,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009369317003417893,
+    "bug_keyword_density": 0.005025125628140704
+  },
+  "sklearn/linear_model/_perceptron.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008785610313994593,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007338251671961398,
+    "bug_keyword_density": 0.017964071856287425
+  },
+  "sklearn/feature_selection/_rfe.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013239065640812366,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009564931667104993,
+    "bug_keyword_density": 0.01488095238095238
+  },
+  "sklearn/utils/metadata_routing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0022007347334858252,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006715756066232551,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/semi_supervised/_label_propagation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010137242669993761,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008090576276782085,
+    "bug_keyword_density": 0.023255813953488372
+  },
+  "sklearn/tree/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "doc/sphinxext/allow_nan_estimators.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.003535038469536286,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007420865806550739,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_logistic.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01448672627711929,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009581211840374025,
+    "bug_keyword_density": 0.015990159901599015
+  },
+  "sklearn/metrics/_plot/det_curve.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032751091703056767,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0077359287403149955,
+    "bug_keyword_density": 0.009433962264150943
+  },
+  "sklearn/datasets/descr/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/preprocessing/_discretization.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010483815068967907,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0094721810653098,
+    "bug_keyword_density": 0.0125
+  },
+  "sklearn/svm/_classes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011887433284813197,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009414574424808555,
+    "bug_keyword_density": 0.017456359102244388
+  },
+  "sklearn/pipeline.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012389963263325709,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008557999903777013,
+    "bug_keyword_density": 0.028037383177570093
+  },
+  "sklearn/linear_model/_omp.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014781312816247314,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008359698987586614,
+    "bug_keyword_density": 0.0136986301369863
+  },
+  "sklearn/utils/_chunking.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002114091633742289,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.002637991515427339,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/parallel.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003725653288972066,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007541606234162712,
+    "bug_keyword_density": 0.03225806451612903
+  },
+  "sklearn/utils/graph.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0018021764746655577,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007532352497683287,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_glm/_newton_solver.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005250571844458307,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.003475032219459341,
+    "bug_keyword_density": 0.013871374527112233
+  },
+  "sklearn/utils/_estimator_html_repr.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0036563388091772372,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007851039530058853,
+    "bug_keyword_density": 0.043689320388349516
+  },
+  "doc/api_reference.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.005337214944201844,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00752989404359623,
+    "bug_keyword_density": 0.021897810218978103
+  },
+  "sklearn/compose/_column_transformer.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012909821861786927,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008146918220501388,
+    "bug_keyword_density": 0.030254777070063694
+  },
+  "build_tools/check-meson-openmp-dependencies.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_species_distributions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005215914604560893,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007377998606590001,
+    "bug_keyword_density": 0.01639344262295082
+  },
+  "sklearn/frozen/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 6.931447979482915e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/externals/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 2,
+    "community_size": 3,
+    "semantic_degree": 0.0009068038598858838,
+    "bug_keyword_density": 0.05263157894736842
+  },
+  "sklearn/linear_model/_least_angle.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.016514174811118044,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009747432332160633,
+    "bug_keyword_density": 0.013812154696132596
+  },
+  "sklearn/cluster/_bisect_k_means.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012234005683787344,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008733238162657728,
+    "bug_keyword_density": 0.01282051282051282
+  },
+  "maint_tools/sort_whats_new.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_truncated_svd.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010587786788660151,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009671370623182324,
+    "bug_keyword_density": 0.005263157894736842
+  },
+  "build_tools/github/vendor.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001890655469099994,
+    "cochange_degree": 0.001576904415332363,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0036706175869679705,
+    "bug_keyword_density": 0.0
+  },
+  "doc/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0011263602966659735,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0066128077233601435,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/metrics/_plot/confusion_matrix.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0025299785125112635,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007408559273467289,
+    "bug_keyword_density": 0.019801980198019802
+  },
+  "sklearn/_loss/loss.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00402023982810009,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00847461701177783,
+    "bug_keyword_density": 0.012987012987012988
+  },
+  "sklearn/compose/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_nmf.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015751715533374924,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00977955986273757,
+    "bug_keyword_density": 0.00911854103343465
+  },
+  "build_tools/on_pr_comment_update_environments_and_lock_files.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.00025512430937063075,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/model_selection/_split.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007174048658764816,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007827906876880427,
+    "bug_keyword_density": 0.02912621359223301
+  },
+  "sklearn/tree/_export.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00644624662091911,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009062764074039156,
+    "bug_keyword_density": 0.02734375
+  },
+  "sklearn/ensemble/_gb_losses.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001039717196922437,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.002217377571276617,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_pca.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013568309419837804,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009886749858216618,
+    "bug_keyword_density": 0.01592356687898089
+  },
+  "sklearn/linear_model/_huber.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009669369931378666,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008041983793753735,
+    "bug_keyword_density": 0.009345794392523364
+  },
+  "sklearn/metrics/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005475843903791502,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0029382995933901804,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/feature_selection/_variance_threshold.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009028210993276496,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008144804657587396,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/svm/_bounds.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004228183267484578,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0016443498158960589,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/mixture/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "doc/tutorial/text_analytics/solutions/exercise_01_language_train_model.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00012130033964095099,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/model_selection/_validation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008265751715533376,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008214215448117205,
+    "bug_keyword_density": 0.027972027972027972
+  },
+  "sklearn/linear_model/_ridge.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015595757953836557,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009207418290913694,
+    "bug_keyword_density": 0.01905972045743329
+  },
+  "sklearn/feature_selection/_mutual_info.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0031191515907673115,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0075753541324023906,
+    "bug_keyword_density": 0.026905829596412557
+  },
+  "sklearn/decomposition/_factor_analysis.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010310528869480834,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0068193797939765256,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/preprocessing/_label.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009929299230609274,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00852231877007846,
+    "bug_keyword_density": 0.023696682464454975
+  },
+  "doc/tutorial/text_analytics/data/languages/fetch_data.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0001386289595896583,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0029836305806263093,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/semi_supervised/_self_training.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010795730228044639,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007996328054321314,
+    "bug_keyword_density": 0.005128205128205128
+  },
+  "sklearn/datasets/images/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_metadata_requests.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004314826367228114,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006118258930758821,
+    "bug_keyword_density": 0.021875
+  },
+  "sklearn/experimental/enable_halving_search_cv.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_covtype.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0051985859846121855,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007101795677662077,
+    "bug_keyword_density": 0.03508771929824561
+  },
+  "sklearn/datasets/_lfw.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004072225687946212,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00633278803011402,
+    "bug_keyword_density": 0.021739130434782608
+  },
+  "sklearn/utils/_arpack.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_glm/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0022180633534345327,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005652599079981966,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/preprocessing/_data.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012199348443889929,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008985819224026371,
+    "bug_keyword_density": 0.023529411764705882
+  },
+  "sklearn/manifold/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "bench_calibration.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 1.7328619948707286e-05,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00019152788057575916,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/mixture/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009236154432660983,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008094302806512774,
+    "bug_keyword_density": 0.013986013986013986
+  },
+  "conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 2,
+    "community_size": 3,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "build_tools/github/check_wheels.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001890655469099994,
+    "cochange_degree": 0.001576904415332363,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0029228457894527873,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/inspection/_plot/decision_boundary.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0030671657309211896,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009149465676932632,
+    "bug_keyword_density": 0.034482758620689655
+  },
+  "sklearn/externals/_packaging/version.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_sparse_pca.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013152422541068829,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009481502265726607,
+    "bug_keyword_density": 0.004273504273504274
+  },
+  "doc/sphinxext/sphinx_issues.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.003223123310459555,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.002689275821550496,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/metrics/pairwise.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012008733624454149,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007607153780687209,
+    "bug_keyword_density": 0.012396694214876033
+  },
+  "sklearn/gaussian_process/kernels.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007693907257226035,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006730438991266839,
+    "bug_keyword_density": 0.030927835051546393
+  },
+  "sklearn/manifold/_spectral_embedding.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013031122201427879,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008997363868366378,
+    "bug_keyword_density": 0.010362694300518135
+  },
+  "sklearn/inspection/_permutation_importance.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004505441186663894,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009143109049826589,
+    "bug_keyword_density": 0.02824858757062147
+  },
+  "sklearn/feature_extraction/_hash.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008335066195328204,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006815575810359926,
+    "bug_keyword_density": 0.023809523809523808
+  },
+  "sklearn/utils/_joblib.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 1.7328619948707286e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/mixture/_bayesian_mixture.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008508352394815276,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007890089052304233,
+    "bug_keyword_density": 0.04285714285714286
+  },
+  "sklearn/ensemble/_weight_boosting.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012459277743120539,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009506314102194907,
+    "bug_keyword_density": 0.01812688821752266
+  },
+  "sklearn/ensemble/_stacking.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008854924793789423,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008795280308019952,
+    "bug_keyword_density": 0.01348747591522158
+  },
+  "sklearn/cluster/_mean_shift.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008820267553892008,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008535907795835927,
+    "bug_keyword_density": 0.01092896174863388
+  },
+  "sklearn/cluster/_hdbscan/tests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 6.931447979482915e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/fixes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0038816108685104317,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006262574677683759,
+    "bug_keyword_density": 0.023255813953488372
+  },
+  "sklearn/linear_model/_glm/tests/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "build_tools/azure/get_commit_message.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00017328619948707284,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0024063311218376253,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/calibration.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013637623899632634,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009666117605014474,
+    "bug_keyword_density": 0.025440313111545987
+  },
+  "sklearn/metrics/_plot/regression.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0030671657309211896,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008811447444734248,
+    "bug_keyword_density": 0.020618556701030927
+  },
+  "sklearn/svm/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006207535939218987,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cluster/_dbscan.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011263602966659736,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008660244083911013,
+    "bug_keyword_density": 0.023696682464454975
+  },
+  "sklearn/model_selection/_search.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015665072433631386,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009731196212662,
+    "bug_keyword_density": 0.03270223752151463
+  },
+  "sklearn/naive_bayes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.017987107506758162,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.010259722220683996,
+    "bug_keyword_density": 0.013227513227513227
+  },
+  "doc/tutorial/machine_learning_map/parse_path.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012303320163582173,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00658856913307151,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_gb.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014573369376862827,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009057502434396712,
+    "bug_keyword_density": 0.01125703564727955
+  },
+  "sklearn/_min_dependencies.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.008213765855687253,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006683510510394823,
+    "bug_keyword_density": 0.01636904761904762
+  },
+  "sklearn/datasets/_kddcup99.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003292437790254384,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0075026645968301895,
+    "bug_keyword_density": 0.031914893617021274
+  },
+  "sklearn/datasets/_rcv1.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005163928744714771,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.005895309209483939,
+    "bug_keyword_density": 0.01098901098901099
+  },
+  "sklearn/linear_model/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015145213835170167,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007891717449316778,
+    "bug_keyword_density": 0.019880715705765408
+  },
+  "sklearn/linear_model/_bayes.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013464337700145561,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009266165536857607,
+    "bug_keyword_density": 0.0231023102310231
+  },
+  "sklearn/neighbors/_unsupervised.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005527829763637624,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007372162054476646,
+    "bug_keyword_density": 0.0
+  },
+  "doc/sphinxext/override_pst_pagetoc.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012303320163582173,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_passive_aggressive.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010327857489429541,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007311231959702309,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/inspection/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004800027725791918,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008513782168155855,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/_loss/link.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003812296388715603,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006031567307177208,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/impute/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004696056006099674,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006965019624734397,
+    "bug_keyword_density": 0.019230769230769232
+  },
+  "sklearn/_build_utils/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0033097664102030916,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.005926320102353806,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/_build_utils/pre_build_helpers.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.003171137450613433,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004875214835583169,
+    "bug_keyword_density": 0.013157894736842105
+  },
+  "sklearn/utils/_available_if.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0020447771539474596,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0025061153617162834,
+    "bug_keyword_density": 0.03333333333333333
+  },
+  "sklearn/neural_network/_rbm.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011176959866916199,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008682156986485619,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_nearest_centroid.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009478755111942886,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008812710730287042,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/impute/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01538781451445207,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.010004762618770952,
+    "bug_keyword_density": 0.01078167115902965
+  },
+  "sklearn/cluster/_hdbscan/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0020967630137935815,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00649844168122078,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_linear_loss.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004106882927843627,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0025941404914121523,
+    "bug_keyword_density": 0.013145539906103286
+  },
+  "sklearn/utils/_testing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0018541623345116796,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006820360572650417,
+    "bug_keyword_density": 0.016260162601626018
+  },
+  "sklearn/covariance/_elliptic_envelope.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00727802037845706,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.005468597497900465,
+    "bug_keyword_density": 0.02702702702702703
+  },
+  "sklearn/experimental/enable_iterative_imputer.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_mask.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00024260067928190198,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0012165239647884917,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/feature_extraction/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/tree/_reingold_tilford.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002131420253690996,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00060574253356799,
+    "bug_keyword_density": 0.14285714285714285
+  },
+  "sklearn/metrics/_scorer.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.005562487003535038,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009247748828786711,
+    "bug_keyword_density": 0.010080645161290322
+  },
+  "sklearn/kernel_approximation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014885284535939557,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009491606922725385,
+    "bug_keyword_density": 0.006772009029345372
+  },
+  "sklearn/utils/optimize.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0016288902751784848,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0060672491276267644,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/metrics/_classification.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010449157829070493,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007929850094765677,
+    "bug_keyword_density": 0.018886679920477135
+  },
+  "sklearn/datasets/_samples_generator.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00765925001732862,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.004688137676411604,
+    "bug_keyword_density": 0.008012820512820512
+  },
+  "sklearn/feature_selection/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_nca.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009773341651070909,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008660106977199534,
+    "bug_keyword_density": 0.015267175572519083
+  },
+  "sklearn/experimental/enable_hist_gradient_boosting.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0034483953697927497,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0025607392330778494,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_olivetti_faces.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003292437790254384,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0060135775986172165,
+    "bug_keyword_density": 0.010309278350515464
+  },
+  "sklearn/base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.016184931032092603,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009010621556863444,
+    "bug_keyword_density": 0.008917197452229299
+  },
+  "sklearn/_distributor_init.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0034483953697927497,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0025607392330778494,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/utils.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003465723989741457,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0025924143306572485,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/impute/_iterative.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007156720038816108,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0089965516993855,
+    "bug_keyword_density": 0.02197802197802198
+  },
+  "sklearn/ensemble/_forest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.01769252096763014,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009972442895750704,
+    "bug_keyword_density": 0.016638935108153077
+  },
+  "sklearn/metrics/_pairwise_distances_reduction/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0022873778332293615,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007155382148869191,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/frozen/_frozen.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 6.931447979482915e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/impute/_knn.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010414500589173079,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009291695580038863,
+    "bug_keyword_density": 0.01593625498007968
+  },
+  "sklearn/preprocessing/_encoders.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012580578082761489,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00786491139091901,
+    "bug_keyword_density": 0.03444976076555024
+  },
+  "sklearn/externals/_pilutil.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/metrics/cluster/_bicluster.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0025126498925625565,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004548962906427702,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/validation.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011228945726762321,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009375003854258915,
+    "bug_keyword_density": 0.029900332225913623
+  },
+  "doc/tutorial/text_analytics/skeletons/exercise_01_language_train_model.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00012130033964095099,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/neighbors/_graph.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012337977403479587,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009196697408508949,
+    "bug_keyword_density": 0.012145748987854251
+  },
+  "sklearn/neighbors/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0033270950301517986,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008137524312613371,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/tests/metadata_routing_common.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0008144451375892424,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0034310497310701574,
+    "bug_keyword_density": 0.008097165991902834
+  },
+  "build_tools/circle/list_versions.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0014729326956401192,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008179529114656657,
+    "bug_keyword_density": 0.0
+  },
+  "doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00012130033964095099,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/linear_model/_ransac.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015075899355375337,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00880370410159117,
+    "bug_keyword_density": 0.024793388429752067
+  },
+  "sklearn/utils/random.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0016635475150758993,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006831519616547526,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/manifold/_mds.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013984196298606779,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009920715194884211,
+    "bug_keyword_density": 0.0037735849056603774
+  },
+  "sklearn/utils/_response.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.001767519234768143,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008392708811794923,
+    "bug_keyword_density": 0.014778325123152709
+  },
+  "doc/sphinxext/autoshortsummary.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0012303320163582173,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cluster/_optics.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009582726831635129,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009661513941116594,
+    "bug_keyword_density": 0.017699115044247787
+  },
+  "sklearn/dummy.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013932210438760657,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0082639912024262,
+    "bug_keyword_density": 0.011560693641618497
+  },
+  "sklearn/datasets/_california_housing.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006619532820406183,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006302054064922898,
+    "bug_keyword_density": 0.009900990099009901
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/predictor.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0034483953697927497,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004768410513163635,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/estimator_checks.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012753864282248562,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008817062433845549,
+    "bug_keyword_density": 0.02579484103179364
+  },
+  "sklearn/covariance/_graph_lasso.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011315588826505856,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.00919405599587957,
+    "bug_keyword_density": 0.01486988847583643
+  },
+  "sklearn/datasets/tests/data/openml/id_1590/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 1.7328619948707286e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.05555555555555555
+  },
+  "sklearn/linear_model/_coordinate_descent.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.017345948568655994,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.010012045659609314,
+    "bug_keyword_density": 0.013888888888888888
+  },
+  "sklearn/metrics/_plot/roc_curve.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0034310667498440423,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008882457336607178,
+    "bug_keyword_density": 0.02247191011235955
+  },
+  "sklearn/_build_utils/tempita.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0020967630137935815,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006976904249459499,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/semi_supervised/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0032577805503569697,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007108512139258234,
+    "bug_keyword_density": 0.0
+  },
+  "doc/tutorial/text_analytics/solutions/generate_skeletons.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00012130033964095099,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cluster/_feature_agglomeration.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.007104734178969987,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.005362987292854679,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/model_selection/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003396409509946628,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008667591837626991,
+    "bug_keyword_density": 0.007042253521126761
+  },
+  "doc/tutorial/text_analytics/skeletons/exercise_02_sentiment.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00012130033964095099,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "build_tools/generate_authors_table.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0031364802107160185,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006589481431817853,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/decomposition/_base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0070874055590212795,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.007784197106081409,
+    "bug_keyword_density": 0.012269938650306749
+  },
+  "sklearn/utils/_optional_dependencies.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.00019061481943578014,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/_array_api.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003292437790254384,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.004925170139184778,
+    "bug_keyword_density": 0.025688073394495414
+  },
+  "sklearn/preprocessing/_function_transformer.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009270811672558398,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007125675550665775,
+    "bug_keyword_density": 0.0189873417721519
+  },
+  "doc/sphinxext/github_link.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.00015595757953836556,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.00021614472580024478,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/data/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/covariance/_shrunk_covariance.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012130033964095099,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008483073684813484,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0038642822485617247,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007998893836668327,
+    "bug_keyword_density": 0.006172839506172839
+  },
+  "sklearn/random_projection.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014452069037221876,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009756613634813196,
+    "bug_keyword_density": 0.02681992337164751
+  },
+  "sklearn/datasets/_openml.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004453455326817772,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008723764439846644,
+    "bug_keyword_density": 0.0299625468164794
+  },
+  "sklearn/decomposition/_kernel_pca.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.012667221182505026,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009500202949323343,
+    "bug_keyword_density": 0.025089605734767026
+  },
+  "sklearn/metrics/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004938656685381577,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008866834032097832,
+    "bug_keyword_density": 0.006756756756756757
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/loss.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 3.465723989741457e-05,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/ensemble/_iforest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013810910099119706,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.0094323246782593,
+    "bug_keyword_density": 0.017699115044247787
+  },
+  "sklearn/neighbors/_lof.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.009911970610660566,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008925495830036401,
+    "bug_keyword_density": 0.01507537688442211
+  },
+  "sklearn/metrics/cluster/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.004678727386150967,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.006982678381990832,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/covariance/_robust_covariance.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.010345186109378249,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.006370965143044331,
+    "bug_keyword_density": 0.018867924528301886
+  },
+  "sklearn/externals/_lobpcg.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.00031191515907673113,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0046023553636161865,
+    "bug_keyword_density": 0.02040816326530612
+  },
+  "sklearn/preprocessing/_target_encoder.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.006740833160047133,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008404103425391886,
+    "bug_keyword_density": 0.022222222222222223
+  },
+  "sklearn/model_selection/_plot.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003049837110972482,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.008363951186958476,
+    "bug_keyword_density": 0.00847457627118644
+  },
+  "sklearn/metrics/_plot/base.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.0001386289595896583,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/feature_extraction/image.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011402231926249394,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008461161337090756,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/gaussian_process/_gpr.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.014642683856657656,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008662121557103417,
+    "bug_keyword_density": 0.033816425120772944
+  },
+  "sklearn/cluster/_kmeans.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.015907673112913287,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.009374850163620309,
+    "bug_keyword_density": 0.014833127317676144
+  },
+  "doc/tutorial/text_analytics/data/twenty_newsgroups/fetch_data.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 1.7328619948707286e-05,
+    "community_id": 0,
+    "community_size": 8,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cluster/_birch.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.011800790185069661,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008846169638533529,
+    "bug_keyword_density": 0.011834319526627219
+  },
+  "maint_tools/check_xfailed_checks.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0006238303181534623,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/stats.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0001386289595896583,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/tests/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 5.198585984612185e-05,
+    "community_id": 2,
+    "community_size": 3,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "doc/sphinxext/doi_role.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.001576904415332363,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0008986530209496573,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/cluster/_hdbscan/hdbscan.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.00861232411450752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.009482324952845098,
+    "bug_keyword_density": 0.03676470588235294
+  },
+  ".spin/cmds.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.001021240562136436,
+    "cochange_degree": 0.0,
+    "community_id": -1,
+    "community_size": 0,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/utils/discovery.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.0019754626741526303,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0077095795473900355,
+    "bug_keyword_density": 0.0
+  },
+  "sklearn/datasets/_arff_parser.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.003898939488459139,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.007191488905153604,
+    "bug_keyword_density": 0.033707865168539325
+  },
+  "sklearn/ensemble/_voting.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.008508352394815276,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008543422370291757,
+    "bug_keyword_density": 0.02030456852791878
+  },
+  "sklearn/multiclass.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0033215393538500652,
+    "cochange_degree": 0.013862895958965829,
+    "community_id": 1,
+    "community_size": 118,
+    "semantic_degree": 0.008971273423620528,
+    "bug_keyword_density": 0.006896551724137931
+  },
+  "sklearn/ensemble/_hist_gradient_boosting/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.003331444718104027,
+    "cochange_degree": 0.002027448533998752,
+    "community_id": 3,
+    "community_size": 188,
+    "semantic_degree": 0.0,
+    "bug_keyword_density": 0.0
+  }
+}

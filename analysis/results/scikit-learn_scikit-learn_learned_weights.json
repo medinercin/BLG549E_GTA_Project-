@@ -1,0 +1,19 @@
+{
+  "signals": [
+    "pagerank",
+    "betweenness",
+    "cochange_degree",
+    "semantic_degree",
+    "bug_keyword_density",
+    "community_size"
+  ],
+  "coefficients": [
+    1.1454,
+    0.0,
+    2.6164,
+    2.4655,
+    5.506,
+    -0.3937
+  ],
+  "intercept": -2.6977
+}

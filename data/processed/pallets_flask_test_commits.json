@@ -1,0 +1,1381 @@
+[
+  {
+    "sha": "3a9d54f3da1de540adfdf6f1e2dea6fc0006e15d",
+    "message": "Merge branch 'stable'",
+    "date": "2026-03-04T15:36:21Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a29f88ce6f2f9843bd6fcbbfce1390a2071965d6",
+    "message": "document that headers must be set before streaming",
+    "date": "2026-03-04T15:36:09Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 26,
+        "additions": 20,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c34d6e81fd8e405e6d4178bf24b364918811ef17",
+    "message": "all teardown callbacks are called despite errors (#5928)",
+    "date": "2026-02-20T04:00:34Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 27,
+        "additions": 23,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 21,
+        "additions": 16,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 32,
+        "additions": 32,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "fbb6f0bc4c60a0bada0e03c3480d0ccf30a3c1df",
+    "message": "all teardown callbacks are called despite errors",
+    "date": "2026-02-20T03:41:50Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 27,
+        "additions": 23,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 21,
+        "additions": 16,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 32,
+        "additions": 32,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "7b0088693ece1bd3a9238a6fdf56ed8df7a4d43b",
+    "message": "fix typing",
+    "date": "2026-02-19T16:42:33Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a411a2434b09d9cbaa4074232b2c247d591bb655",
+    "message": "add back opening session on context push",
+    "date": "2026-02-19T16:35:48Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 30,
+        "additions": 21,
+        "deletions": 9,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "daca74d93a0edc458e618136de7d14803f06bc28",
+    "message": "Merge branch 'stable'",
+    "date": "2026-02-19T05:56:24Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 3,
+        "additions": 2,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 34,
+        "additions": 10,
+        "deletions": 24,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "089cb86dd22bff589a4eafb7ab8e42dc357623b4",
+    "message": "Merge commit from fork\n\nrequest context tracks session access",
+    "date": "2026-02-19T03:35:58Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 22,
+        "additions": 16,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 34,
+        "additions": 10,
+        "deletions": 24,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c17f379390731543eea33a570a47bd4ef76a54fa",
+    "message": "request context tracks session access",
+    "date": "2026-02-19T03:02:54Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 22,
+        "additions": 16,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 34,
+        "additions": 10,
+        "deletions": 24,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "12e95c93b488725f80753f34b2e0d24838ca4646",
+    "message": "fix provide_automatic_options override (#5917)",
+    "date": "2026-02-12T21:07:50Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 16,
+        "additions": 8,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e82db2ca3a22c9614c1987392c9cfaa8c6ce99ad",
+    "message": "fix provide_automatic_options override",
+    "date": "2026-02-12T21:03:03Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 16,
+        "additions": 8,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "4b8bde97d4fa3486e18dce21c3c5f75570d50164",
+    "message": "deprecate `should_ignore_error` (#5899)",
+    "date": "2026-01-25T03:53:11Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 17,
+        "additions": 16,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 17,
+        "additions": 9,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c77a5203438fe772d41f6a47303ad3f57a4efe6d",
+    "message": "deprecate should_ignore_error",
+    "date": "2026-01-25T03:50:30Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 17,
+        "additions": 16,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 17,
+        "additions": 9,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5880befcd22490c40f3c63d6178427f7753672c1",
+    "message": "Merge branch 'stable'",
+    "date": "2026-01-25T03:05:26Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5559ef42b5334075cbde82b2870ca725ac606fa4",
+    "message": "pre-commit: Add codespell (#5844)",
+    "date": "2026-01-25T03:00:23Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3709c4a9a87e6ce8c26dc4a951e1df52ac9ecad0",
+    "message": "update ruff hook and noqa\n\nco-authored-by: Christian Clauss <cclauss@me.com>",
+    "date": "2026-01-25T02:58:45Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "25642fd1fd65985fc98f95e64bc2c7ff353d6c2b",
+    "message": "fix annotation for select_jinja_autoescape (#5808)",
+    "date": "2026-01-25T02:25:31Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "809d5a8869d4ffe8656680b2438b10f7c8845613",
+    "message": "redirect defaults to 303 (#5898)",
+    "date": "2026-01-25T01:18:35Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "eca5fd1dfdc614c2df876cc32018a7d71f84ea82",
+    "message": "redirect defaults to 303",
+    "date": "2026-01-25T00:50:54Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "96a01e420b741c59af59301f15612fde39bfb39d",
+    "message": "Merge branch 'stable'",
+    "date": "2025-11-17T17:45:56Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "da6d075dfde71b2e2a64f39b29ba957d5ffb00b0",
+    "message": "update dev dependencies",
+    "date": "2025-11-17T17:43:40Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "70d04b5a2620705011e65f79ccfd52caa86f5d6a",
+    "message": "pass context through dispatch methods (#5818)",
+    "date": "2025-11-17T16:49:53Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 167,
+        "additions": 129,
+        "deletions": 38,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 52,
+        "additions": 25,
+        "deletions": 27,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "6a64969009bf1898bd302e6a9633f71942523f7f",
+    "message": "pass context through dispatch methods",
+    "date": "2025-09-19T23:58:48Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 167,
+        "additions": 129,
+        "deletions": 38,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 52,
+        "additions": 25,
+        "deletions": 27,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "adf363679da2d9a5ddc564bb2da563c7ca083916",
+    "message": "merge app and request context (#5812)",
+    "date": "2025-09-19T23:45:27Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 176,
+        "additions": 70,
+        "deletions": 106,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 467,
+        "additions": 267,
+        "deletions": 200,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/debughelpers.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/globals.py",
+        "changes": 62,
+        "additions": 44,
+        "deletions": 18,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 50,
+        "additions": 22,
+        "deletions": 28,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/json/__init__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 16,
+        "additions": 5,
+        "deletions": 11,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/scaffold.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 34,
+        "additions": 14,
+        "deletions": 20,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/conftest.py",
+        "changes": 17,
+        "additions": 9,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c2705ffd9ce1dc8476cb29eaf5ff5d4c719852d9",
+    "message": "merge app and request context",
+    "date": "2025-09-12T21:52:03Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 176,
+        "additions": 70,
+        "deletions": 106,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 467,
+        "additions": 267,
+        "deletions": 200,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/debughelpers.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/globals.py",
+        "changes": 62,
+        "additions": 44,
+        "deletions": 18,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 50,
+        "additions": 22,
+        "deletions": 28,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/json/__init__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 16,
+        "additions": 5,
+        "deletions": 11,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/scaffold.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 34,
+        "additions": 14,
+        "deletions": 20,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/conftest.py",
+        "changes": 17,
+        "additions": 9,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "dbd4c2882593f6118103120aa96fa9acdf7deedb",
+    "message": "Changed the static annotated type of select_jinja_autoescape method in src/flask/sansio/app.py",
+    "date": "2025-09-06T16:31:22Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "330123258e8c3dc391cbe55ab1ed94891ca83af3",
+    "message": "Merge branch 'stable'",
+    "date": "2025-08-19T21:09:56Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 73,
+        "additions": 40,
+        "deletions": 33,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/blueprints.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "ed1c9e953e2d67c0994e32e6c8d878291e36d4f7",
+    "message": "support call template_filter without parens (#5736)",
+    "date": "2025-08-19T19:36:00Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 146,
+        "additions": 97,
+        "deletions": 49,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/blueprints.py",
+        "changes": 152,
+        "additions": 106,
+        "deletions": 46,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "edebd3704437f19b5b137eaffe97130fe817d144",
+    "message": "rewrite docs, clean up typing for template decorators",
+    "date": "2025-08-19T19:29:47Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 170,
+        "additions": 83,
+        "deletions": 87,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/blueprints.py",
+        "changes": 175,
+        "additions": 103,
+        "deletions": 72,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "daf1510a4bda652ac2cfca03ec5567b03ddf8bf1",
+    "message": "use template_filter without parens",
+    "date": "2025-05-17T04:17:18Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 84,
+        "additions": 68,
+        "deletions": 16,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/blueprints.py",
+        "changes": 41,
+        "additions": 35,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d8259eb11900285af9b80b0fa47f841174c054e3",
+    "message": "use Jinja name consistently",
+    "date": "2025-08-19T17:43:16Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/templating.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "38b4c1e19b50494cfcdc9332899e09b7fed34979",
+    "message": "refactor stream_with_context for async views (#5799)",
+    "date": "2025-08-19T15:23:51Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 71,
+        "additions": 39,
+        "deletions": 32,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "9822a0351574790cb66c652fcc396ad7aa2b09d8",
+    "message": "refactor stream_with_context for async views",
+    "date": "2025-08-19T15:18:55Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 71,
+        "additions": 39,
+        "deletions": 32,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "1dfd7cd5555d9e62a2e198a131c366242e724b35",
+    "message": "use IO[bytes] instead of BinaryIO for wider compatibility (#5777)",
+    "date": "2025-08-18T17:26:12Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d44f1c65239c3e33509224aa1931631243dbfa7f",
+    "message": "relax type hint for bytes io",
+    "date": "2025-07-16T09:21:50Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "24824ff666e096c4c07d0b75a889088571afe4a6",
+    "message": "push preserved contexts in correct order (#5797)",
+    "date": "2025-08-18T16:56:39Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "53b8f08218796d95764c5252bccd8a50a173a6fb",
+    "message": "push preserved contexts in correct order",
+    "date": "2025-08-18T16:41:03Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e9741288637e0d9abe95311247b4842a017f7d5c",
+    "message": "Merge branch 'stable'",
+    "date": "2025-06-08T16:54:32Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/scaffold.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "f04c5e696400badaa52b3450ded53e9091c2078a",
+    "message": "update dev dependencies",
+    "date": "2025-06-08T16:52:11Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/ctx.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/helpers.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/scaffold.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a5f9742398c9429ef84ac8a57b0f3eb418394d9e",
+    "message": "drop end of life python versions (#5731)",
+    "date": "2025-05-13T15:35:41Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 10,
+        "additions": 1,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/json/provider.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/typing.py",
+        "changes": 60,
+        "additions": 27,
+        "deletions": 33,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "52df9eed45d0b19c588662ed8492d8fbaa0e7098",
+    "message": "drop end of life python versions",
+    "date": "2025-05-13T15:31:54Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 10,
+        "additions": 1,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/json/provider.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/sansio/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/typing.py",
+        "changes": 60,
+        "additions": 27,
+        "deletions": 33,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e7e53807766ef1470bce546716a675ded4b08597",
+    "message": "Merge branch 'stable'",
+    "date": "2025-05-13T15:10:30Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 3,
+        "additions": 2,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "73d6504063bfa00666a92b07a28aaf906c532f09",
+    "message": "Merge commit from fork\n\nSessions: fix signing key selection when key rotation is enabled",
+    "date": "2025-05-13T14:46:54Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 3,
+        "additions": 2,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "fb54159861708558b5f5658ebdc14709d984361c",
+    "message": "secret key rotation: fix key list ordering\n\nThe `itsdangerous` serializer interface[1] expects keys to be\nprovided with the oldest key at index zero and the active signing key\nat the end of the list.\n\nWe document[2] that `SECRET_KEY_FALLBACKS` should be configured with\nthe most recent first (at index zero), so to achieve the expected\nbehaviour, those should be inserted in reverse-order at the head of\nthe list.\n\n[1] - https://itsdangerous.palletsprojects.com/en/stable/serializer/#itsdangerous.serializer.Serializer\n\n[2] - https://flask.palletsprojects.com/en/stable/config/#SECRET_KEY_FALLBACKS",
+    "date": "2025-03-10T16:34:12Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/flask/sessions.py",
+        "changes": 3,
+        "additions": 2,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "941efd4a36ed0f27e13758874f95e3aa1d3ee163",
+    "message": "use uv (#5727)",
+    "date": "2025-05-12T01:04:35Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0109e496f6ca68de29480fe6413e81b1d3f86aa9",
+    "message": "use uv",
+    "date": "2025-05-12T00:45:03Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "11c45eeba3b5bcf06b84f4e864862f1019a3faa3",
+    "message": "update dev dependencies",
+    "date": "2025-05-11T12:58:48Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b78b5a210bde49e7e04b62a2a4f453ca10e0048c",
+    "message": "Merge branch 'stable'",
+    "date": "2025-03-30T20:17:17Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/typing.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/conftest.py",
+        "changes": 32,
+        "additions": 0,
+        "deletions": 32,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e7851665071cb93b3c70b1e7103f82d1e6d01f5d",
+    "message": "Async Iterable Response (#5659)",
+    "date": "2025-03-30T20:15:54Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/typing.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "73ce26c3e822cdc2ccf99625619a50c91f163f8d",
+    "message": "remove tests about deprecated pkgutil.get_loader (#5702)",
+    "date": "2025-03-29T22:45:11Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "tests/conftest.py",
+        "changes": 32,
+        "additions": 0,
+        "deletions": 32,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "41ec5760a2c55a099c3a1733fdd36fbb1258a02b",
+    "message": "remove tests about deprecated pkgutil.get_loader",
+    "date": "2025-03-29T22:42:58Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "tests/conftest.py",
+        "changes": 32,
+        "additions": 0,
+        "deletions": 32,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "315ebc11765ed3b9da8b5271602e89a403376c24",
+    "message": "better type checking during deprecation (#5700)",
+    "date": "2025-03-29T22:28:27Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/__init__.py",
+        "changes": 27,
+        "additions": 14,
+        "deletions": 13,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "7d5d1874581209f66ad7bcdfb7f85b2b9a7ca471",
+    "message": "better type checking during deprecation",
+    "date": "2025-03-29T22:23:34Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/__init__.py",
+        "changes": 27,
+        "additions": 14,
+        "deletions": 13,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "5ea0ab8ea21b0c11ee6098e6b052463687af602a",
+    "message": "Handle help arg by itself the same as no args (#5674)",
+    "date": "2025-03-29T22:15:04Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "da600394865c06a4772c433c1a560453dcf4f868",
+    "message": "Handle help arg by itself the same as no args\n\nWhen the 'flask' command is used with only the '--help' parameter, this\nchange will make sure to try and load the app before the help callback\nis run. This was previously only being done when the 'flask' command was\nused by itself. This meant when passing in '--help', any custom commands\nwere not getting shown in the help message. With this change, custom\ncommands will be included in the help message when running 'flask' on\nthe command line by itself or with the '--help' parameter.",
+    "date": "2025-01-30T03:22:52Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/cli.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "165af0a090e229e94ccd93896efc15b9fe0488da",
+    "message": "update dev dependencies",
+    "date": "2025-03-29T21:44:59Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/flask/app.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "src/flask/testing.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  }
+]

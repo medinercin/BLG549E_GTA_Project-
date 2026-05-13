@@ -1,0 +1,281 @@
+{
+  "src/flask/json/provider.py": {
+    "betweenness": 0.02246642246642246,
+    "pagerank": 0.02899895945771014,
+    "cochange_degree": 0.08625877632898696,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.0902097890584401,
+    "bug_keyword_density": 0.005747126436781609
+  },
+  "src/flask/json/tag.py": {
+    "betweenness": 0.0008462801566249843,
+    "pagerank": 0.02779946773142749,
+    "cochange_degree": 0.04864593781344032,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.029656257871815854,
+    "bug_keyword_density": 0.0
+  },
+  "tests/typing/typing_error_handler.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0876869506189741,
+    "cochange_degree": 0.006519558676028084,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.05705140852665044,
+    "bug_keyword_density": 0.0
+  },
+  "tests/type_check/typing_error_handler.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.013332642614570385,
+    "cochange_degree": 0.004012036108324975,
+    "community_id": 0,
+    "community_size": 3,
+    "semantic_degree": 0.016733546194220014,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/__init__.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.015169030364828407,
+    "cochange_degree": 0.03961885656970913,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.00958916408149596,
+    "bug_keyword_density": 0.006622516556291391
+  },
+  "src/flask/config.py": {
+    "betweenness": 0.0010104837691044587,
+    "pagerank": 0.01833029176201382,
+    "cochange_degree": 0.05315947843530592,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.05696768177437684,
+    "bug_keyword_density": 0.007653061224489796
+  },
+  "src/flask/sessions.py": {
+    "betweenness": 0.0125615763546798,
+    "pagerank": 0.02498685089742716,
+    "cochange_degree": 0.08274824473420261,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.045924248066039675,
+    "bug_keyword_density": 0.013043478260869565
+  },
+  "src/flask/sansio/app.py": {
+    "betweenness": 0.16935339564649907,
+    "pagerank": 0.044804105699654935,
+    "cochange_degree": 0.06318956870611836,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.047673180851252515,
+    "bug_keyword_density": 0.008298755186721992
+  },
+  "tests/type_check/typing_app_decorators.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.013332642614570385,
+    "cochange_degree": 0.004012036108324975,
+    "community_id": 0,
+    "community_size": 3,
+    "semantic_degree": 0.016733546194220014,
+    "bug_keyword_density": 0.0
+  },
+  "tests/type_check/typing_route.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.013332642614570385,
+    "cochange_degree": 0.004012036108324975,
+    "community_id": 0,
+    "community_size": 3,
+    "semantic_degree": 0.016733546194220014,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/testing.py": {
+    "betweenness": 0.011795292829775587,
+    "pagerank": 0.019092490807346915,
+    "cochange_degree": 0.10330992978936811,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.0974146983514633,
+    "bug_keyword_density": 0.014705882352941176
+  },
+  "src/flask/app.py": {
+    "betweenness": 0.04563372770269322,
+    "pagerank": 0.03168424074282292,
+    "cochange_degree": 0.21063189568706117,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.11687105031459435,
+    "bug_keyword_density": 0.015345268542199489
+  },
+  "src/flask/sansio/blueprints.py": {
+    "betweenness": 0.015132450563485042,
+    "pagerank": 0.03145015671884583,
+    "cochange_degree": 0.03911735205616851,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.04231035600850076,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/blueprints.py": {
+    "betweenness": 0.012811250052629362,
+    "pagerank": 0.020294400725967332,
+    "cochange_degree": 0.13841524573721165,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.11159027908696278,
+    "bug_keyword_density": 0.015444015444015444
+  },
+  "src/flask/views.py": {
+    "betweenness": 0.0004926108374384236,
+    "pagerank": 0.015169030364828407,
+    "cochange_degree": 0.07271815446339017,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.07214574542913185,
+    "bug_keyword_density": 0.027472527472527472
+  },
+  "src/flask/json/__init__.py": {
+    "betweenness": 0.013968885520609658,
+    "pagerank": 0.02868948600281808,
+    "cochange_degree": 0.055165496489468405,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.07900983466139568,
+    "bug_keyword_density": 0.008620689655172414
+  },
+  "src/flask/helpers.py": {
+    "betweenness": 0.010501452570418087,
+    "pagerank": 0.03662801112408722,
+    "cochange_degree": 0.1444332998996991,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.07887695030324215,
+    "bug_keyword_density": 0.020761245674740483
+  },
+  "tests/typing/typing_app_decorators.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0876869506189741,
+    "cochange_degree": 0.022567703109327986,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.042816614571037095,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/typing.py": {
+    "betweenness": 0.0004926108374384236,
+    "pagerank": 0.06943159613753838,
+    "cochange_degree": 0.09378134403209629,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.08639592856085887,
+    "bug_keyword_density": 0.011111111111111112
+  },
+  "src/flask/logging.py": {
+    "betweenness": 0.0006841817186644773,
+    "pagerank": 0.017409255516517307,
+    "cochange_degree": 0.06720160481444333,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.06358752323350186,
+    "bug_keyword_density": 0.0
+  },
+  "tests/typing/typing_route.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.0876869506189741,
+    "cochange_degree": 0.028585757271815445,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.05990296445378472,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/wrappers.py": {
+    "betweenness": 0.014920354230699054,
+    "pagerank": 0.03703153429158225,
+    "cochange_degree": 0.07723169508525576,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.09405216934750345,
+    "bug_keyword_density": 0.030864197530864196
+  },
+  "src/flask/globals.py": {
+    "betweenness": 0.0746840834771869,
+    "pagerank": 0.043478154813013856,
+    "cochange_degree": 0.05315947843530592,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.07502553543292373,
+    "bug_keyword_density": 0.02
+  },
+  "src/flask/signals.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.025978082617191922,
+    "cochange_degree": 0.0050150451354062184,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.03249145758872641,
+    "bug_keyword_density": 0.0
+  },
+  "tests/conftest.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.013332642614570385,
+    "cochange_degree": 0.01905717151454363,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.06594206289461466,
+    "bug_keyword_density": 0.0
+  },
+  "src/flask/sansio/scaffold.py": {
+    "betweenness": 0.010020069330414156,
+    "pagerank": 0.033870787466795144,
+    "cochange_degree": 0.04864593781344032,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.04104907910409967,
+    "bug_keyword_density": 0.011976047904191617
+  },
+  "src/flask/scaffold.py": {
+    "betweenness": 0.0,
+    "pagerank": 0.020750922509963125,
+    "cochange_degree": 0.09628886659979939,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.09957481487376575,
+    "bug_keyword_density": 0.01904761904761905
+  },
+  "src/flask/ctx.py": {
+    "betweenness": 0.00880285742354708,
+    "pagerank": 0.025877408555658434,
+    "cochange_degree": 0.10431293881644935,
+    "community_id": 2,
+    "community_size": 13,
+    "semantic_degree": 0.10090114381159666,
+    "bug_keyword_density": 0.015625
+  },
+  "src/flask/templating.py": {
+    "betweenness": 0.023986218124149153,
+    "pagerank": 0.02481193331989307,
+    "cochange_degree": 0.08625877632898696,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.09539392164708185,
+    "bug_keyword_density": 0.009433962264150943
+  },
+  "src/flask/debughelpers.py": {
+    "betweenness": 0.01466885604816639,
+    "pagerank": 0.02310647367991641,
+    "cochange_degree": 0.06770310932798396,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.07816262878772813,
+    "bug_keyword_density": 0.00558659217877095
+  },
+  "src/flask/cli.py": {
+    "betweenness": 0.0018336070060207988,
+    "pagerank": 0.01876590637694762,
+    "cochange_degree": 0.07422266800401203,
+    "community_id": 1,
+    "community_size": 15,
+    "semantic_degree": 0.07921287272475482,
+    "bug_keyword_density": 0.019966722129783693
+  }
+}

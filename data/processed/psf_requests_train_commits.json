@@ -1,0 +1,1954 @@
+[
+  {
+    "sha": "3f07f990ac74f1e1691ba17ef8c14007f05846ab",
+    "message": "Fix typo in documentation for verify",
+    "date": "2024-10-04T13:18:45Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "96ba401c1296ab1dda74a2365ef36d88f7d144ef",
+    "message": "Only use hostname to do netrc lookup instead of netloc",
+    "date": "2024-09-25T15:03:20Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 8,
+        "additions": 1,
+        "deletions": 7,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b653d80ded3680dc3780557ded01e23074f7e6a4",
+    "message": "Merge branch 'psf:main' into patch-1",
+    "date": "2024-12-12T23:38:45Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0f5ef1be8cb33a28dec67728b8c7220b9c58d366",
+    "message": "Merge branch 'main' of github.com:psf/requests into 3.13",
+    "date": "2024-09-18T14:03:08Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 106,
+        "additions": 92,
+        "deletions": 14,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "79b74ef704dc0d804937c0d015c5e9c3b02b79bd",
+    "message": "Merge pull request #6757 from nateprewitt/urllib-1.x-tests",
+    "date": "2024-07-30T01:44:13Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "01353d3b4afe3afa838f8f5c08e5f30a5b50cb05",
+    "message": "Invert major version check",
+    "date": "2024-07-23T11:28:03Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "4e383642a9ebb82a67eaeed199d0fbbb31991e3c",
+    "message": "Add conditional string encoding based on urllib3 major version",
+    "date": "2024-07-18T16:43:49Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 12,
+        "additions": 12,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 5,
+        "additions": 4,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "06d2a384418ed86effa2d804d32d4705b91c37eb",
+    "message": "Merge branch 'psf:main' into patch-1",
+    "date": "2024-07-01T05:16:41Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 6,
+        "additions": 5,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 218,
+        "additions": 200,
+        "deletions": 18,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 25,
+        "additions": 20,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/exceptions.py",
+        "changes": 10,
+        "additions": 10,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/models.py",
+        "changes": 7,
+        "additions": 6,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 23,
+        "additions": 9,
+        "deletions": 14,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 10,
+        "additions": 5,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 9,
+        "additions": 7,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 42,
+        "additions": 42,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0e322af87745eff34caffe4df68456ebc20d9068",
+    "message": "v2.32.3",
+    "date": "2024-05-29T15:36:10Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e18879932287c2bf4bcee4ddf6ccb8a69b6fc656",
+    "message": "Don't create default SSLContext if ssl module isn't present (#6724)",
+    "date": "2024-05-29T15:23:39Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 24,
+        "additions": 19,
+        "deletions": 5,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "145b5399486b56e00250204f033441f3fdf2f3c9",
+    "message": "Merge pull request #6716 from sigmavirus24/bug/6715",
+    "date": "2024-05-24T21:37:06Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 84,
+        "additions": 74,
+        "deletions": 10,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b1d73ddb509a3a2d3e10744e85f9cdebdbde90f0",
+    "message": "Don't use default SSLContext with custom poolmanager kwargs",
+    "date": "2024-05-24T16:00:52Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 8,
+        "additions": 6,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a62a2d35d918baa8e793f7aa4fb41527644dfca5",
+    "message": "Allow for overriding of specific pool key params\n\nThis re-enables the use case of providing a custom SSLContext via a\nTransport Adapter as broken in #6655 and reported in #6715\n\nCloses #6715",
+    "date": "2024-05-22T11:51:48Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 78,
+        "additions": 69,
+        "deletions": 9,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "88dce9d854797c05d0ff296b70e0430535ef8aaf",
+    "message": "v2.32.2",
+    "date": "2024-05-21T18:49:22Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c98e4d133ef29c46a9b68cd783087218a8075e05",
+    "message": "Merge pull request #6710 from nateprewitt/api_rename\n\nMove _get_connection to get_connection_with_tls_context",
+    "date": "2024-05-21T16:41:18Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 37,
+        "additions": 31,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "92075b330a30b9883f466a43d3f7566ab849f91b",
+    "message": "Add deprecation warning",
+    "date": "2024-05-21T16:28:30Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 10,
+        "additions": 10,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "aa1461b68aa73e2f6ec0e78c8853b635c76fd099",
+    "message": "Move _get_connection to get_connection_with_tls_context",
+    "date": "2024-05-21T12:40:52Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 27,
+        "additions": 21,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "970e8cec988421bd43da57350723b05c8ce8dc7e",
+    "message": "v2.32.1",
+    "date": "2024-05-20T22:02:29Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d6ebc4a2f1f68b7e355fb7e4dd5ffc0845547f9f",
+    "message": "v2.32.0",
+    "date": "2024-05-20T15:46:49Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "9a40d1277807f0a4f26c9a37eea8ec90faa8aadc",
+    "message": "Avoid reloading root certificates to improve concurrent performance (#6667)",
+    "date": "2024-05-15T20:07:26Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 46,
+        "additions": 28,
+        "deletions": 18,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0c030f78d24f29a459dbf39b28b4cc765e2153d7",
+    "message": "Merge pull request #6702 from nateprewitt/no_char_detection\n\nAllow optional char detection dependencies in post-packaging",
+    "date": "2024-05-15T00:15:19Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 6,
+        "additions": 5,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 25,
+        "additions": 20,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/models.py",
+        "changes": 7,
+        "additions": 6,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 25,
+        "additions": 9,
+        "deletions": 16,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "555b870eb19d497ddb67042645420083ec8efb02",
+    "message": "Allow character detection dependencies to be optional in post-packaging steps",
+    "date": "2024-05-14T21:59:26Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 6,
+        "additions": 5,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 25,
+        "additions": 20,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/models.py",
+        "changes": 7,
+        "additions": 6,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 25,
+        "additions": 9,
+        "deletions": 16,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0790ea4250bce844734f625a1a8b37d5581fd8cd",
+    "message": "Merge pull request #6680 from mbeijen/rfc9110\n\nAdd rfc9110 HTTP status code names",
+    "date": "2024-04-11T14:10:57Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e45b428960ff3927812fc9b555e2ac627ba95769",
+    "message": "Add rfc9110 HTTP status code names\n\nRFC 9110 _HTTP Semantics_ obsoletes some earlier RFCs which defined HTTP\n1.1. It adds some status codes that were previously only used for\nWebDAV to HTTP _proper_ after making the names somewhat more generic.\n\nSee https://www.rfc-editor.org/rfc/rfc9110.html#name-changes-from-rfc-7231\n\nThis commit adds the http status code names from that RFC.",
+    "date": "2024-04-08T19:47:12Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "8dd3b26bf59808de24fd654699f592abf6de581e",
+    "message": "Merge pull request #6302 from flysee/main\n\nFix the proxy_bypass_registry function all returning true in some cases.",
+    "date": "2024-03-18T21:38:16Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "13d892bdbe9a2aa374959a166e8067c35253705d",
+    "message": "Additional should_bypass_proxies function test cases",
+    "date": "2024-03-18T14:33:17Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "1604e20fc87ce212cf3a02474a6d7509b640cbbb",
+    "message": "Fix the proxy_bypass_registry function all returning true in some cases.",
+    "date": "2022-12-07T11:24:22Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "eeafb6ab3a54ab01cbf864d452ea30f5fdb67ce8",
+    "message": "Merge pull request #6662 from sigmavirus24/fix-tls-floppy\n\nAdd local TLS server",
+    "date": "2024-03-14T11:25:24Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 18,
+        "additions": 14,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 42,
+        "additions": 42,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a94e9b5308ffcc3d2913ab873e9810a6601a67da",
+    "message": "Add local TLS server\n\nThis also adds certificates for testing purposes and files to make it\neasy to generate/regenerate them.\n\nThis also replaces an existing test of how we utilize our pool manager\nsuch that we don't connect to badssl.com\n\nFinally, this adds additional context parameters for our pool manager to\naccount for mTLS certificates used by clients to authenticate to a\nserver.",
+    "date": "2024-03-13T20:58:45Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 18,
+        "additions": 14,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 42,
+        "additions": 42,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "a58d7f2ffb4d00b46dca2d70a3932a0b37e22fac",
+    "message": "Merge pull request #6655 from sigmavirus24/fix-tls-floppy\n\nUse TLS settings in selecting connection pool",
+    "date": "2024-03-11T11:21:59Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 58,
+        "additions": 57,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c0813a2d910ea6b4f8438b91d315b8d181302356",
+    "message": "Use TLS settings in selecting connection pool\n\nPreviously, if someone made a request with `verify=False` then made a\nrequest where they expected verification to be enabled to the same host,\nthey would potentially reuse a connection where TLS had not been\nverified.\n\nThis fixes that issue.",
+    "date": "2024-03-03T13:00:49Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 58,
+        "additions": 57,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "eea3bbf9ac635f465ee6c9903dc57c677952dafd",
+    "message": "Merge pull request #6562 from amkarn258/issue-6223\n\nevery chardet package maps to requests.packages.chardet.* package respectively",
+    "date": "2024-02-23T12:26:38Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 6,
+        "additions": 4,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b8be93a721792deeadd2f498b8f77cf610e7765f",
+    "message": "Merge pull request #6589 from bruceadams/super_len_str_utf-8\n\nEnhance `super_len` to count encoded bytes for str",
+    "date": "2024-02-23T00:53:25Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3587a5f869ea7ae2ba6b20d281d810b65aa2418e",
+    "message": "Merge pull request #6644 from sigmavirus24/bug/6643\n\nTrim excess leading path separators",
+    "date": "2024-02-23T00:49:42Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "60389df6d69ce833164696dcf36cbb43336d3426",
+    "message": "Trim excess leading path separators\n\nA URL with excess leading / (path-separator)s would cause urllib3 to\nattempt to reparse the request-uri as a full URI with a host and port.\nThis bypasses that logic in ConnectionPool.urlopen by replacing these\nleading /s with just a single /.\n\nCloses #6643",
+    "date": "2024-02-22T01:09:48Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "382fc2c0c6c0ef0874bc65bc1175f97c073e5086",
+    "message": "Merge pull request #6629 from Tarty/fix-6628-jsondecode-error-not-deserializable\n\nFix #6628 - JSONDecodeError are not deserializable",
+    "date": "2024-02-22T20:27:37Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/exceptions.py",
+        "changes": 10,
+        "additions": 10,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3ff3ff21dd45957c9e143cd500291959bb15f690",
+    "message": "Fix #6628 - JSONDecodeError are not deserializable\n\nrequests.exceptions.JSONDecodeError are not deserializable: calling\n`pickle.dumps` followed by `pickle.loads` will trigger an error.\n\nThis is particularly a problem in a process pool, as an attempt to\ndecode json on an invalid json document will result in the entire\nprocess pool crashing.\n\nThis is due to the MRO of the `requests.exceptions.JSONDecodeError`\nclass: the `__reduce__` method called when pickling an instance is not\nthe one from the JSON library parent: two out of three args expected\nfor instantiation will be dropped, and the instance can't be\ndeserialised.\n\nBy specifying in the class which parent `__reduce__` method should be\ncalled, the bug is fixed as all args are carried over in the resulting\npickled bytes.",
+    "date": "2024-01-31T16:07:35Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/exceptions.py",
+        "changes": 10,
+        "additions": 10,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3b5978fc5d1c121d70e83ddf59379cf36418b4ce",
+    "message": "Merge pull request #6592 from atatuzuner61/bug/6584\n\n\"TOO_EARLY\" type definition for status code 425",
+    "date": "2023-12-16T20:24:02Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3fd309a5c14e4cfbd96bea6c8e71b4958fe090bb",
+    "message": "Enhance `super_len` to count encoded bytes for str\n\nThis fixes issue #6586",
+    "date": "2023-11-28T18:17:49Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 3,
+        "additions": 3,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "b37878d3407995e41fd3c160fd04d5d0afda1130",
+    "message": "Too early definition added to 425 status code type",
+    "date": "2023-11-28T23:12:22Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0b4d494192de489701d3a2e32acef8fb5d3f042e",
+    "message": "Merge pull request #6581 from EFord36/typo-fix\n\nfix docstring typo: a -> as",
+    "date": "2023-11-22T15:10:47Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "15849947ec4b8b7c3c136a47e950499edfd36921",
+    "message": "fix docstring typo: a -> as",
+    "date": "2023-11-22T11:31:53Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "9e98a8749a01c12c792833e0e3278763b06c4838",
+    "message": "Merge pull request #6574 from msea1/matthew/fix_space",
+    "date": "2023-11-16T07:44:49Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c32b046243dcbf0dceb952da1317261109ac45c4",
+    "message": "Fix missing space in error message",
+    "date": "2023-11-16T01:00:28Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "89cde235bec9374273281c1b4c9277c409246a6c",
+    "message": "checkstyle",
+    "date": "2023-11-04T17:50:21Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d7490c9d2dc967f68c6ca38b73aa099bc888a04e",
+    "message": "Update src/requests/packages.py\n\nCo-authored-by: Ian Stapleton Cordasco <graffatcolmingov@gmail.com>",
+    "date": "2023-10-31T17:06:39Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 7,
+        "additions": 4,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e9b1217cff710307e5de9fb8ce2fc21eb79acec3",
+    "message": "added handling for chardet and charset_normalizer imports",
+    "date": "2023-10-31T15:07:59Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "ad761abcdd2f1b5e4fcba549676b2ea52bd325cd",
+    "message": "every chardet package maps to requests.packages.chardet.* package respectively",
+    "date": "2023-10-30T19:20:10Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 5,
+        "additions": 2,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "12862617df7391a87f30d5bc30fffbcfd8fa3761",
+    "message": "Update models.Response.json docstring clearer",
+    "date": "2023-09-14T08:59:37Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/models.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "d63e94f552ebf77ccf45d97e5863ac46500fa2c7",
+    "message": "Move to src directory (#6506)",
+    "date": "2023-08-13T21:46:13Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "src/requests/__init__.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/__version__.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/_internal_utils.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/adapters.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/api.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/auth.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/certs.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/compat.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/cookies.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/exceptions.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/help.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/hooks.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/models.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/packages.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/sessions.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/status_codes.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/structures.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      },
+      {
+        "filename": "src/requests/utils.py",
+        "changes": 0,
+        "additions": 0,
+        "deletions": 0,
+        "status": "renamed"
+      }
+    ]
+  },
+  {
+    "sha": "8112fcc7beb15e1cdc66180c10a3290174866828",
+    "message": "Pre commit update (#6498)",
+    "date": "2023-08-12T19:03:10Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/adapters.py",
+        "changes": 1,
+        "additions": 0,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/auth.py",
+        "changes": 1,
+        "additions": 0,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/models.py",
+        "changes": 6,
+        "additions": 2,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/sessions.py",
+        "changes": 8,
+        "additions": 2,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 1,
+        "additions": 1,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "34a64bc65ee12dbe8d6cfd15e33e9ee632942dd2",
+    "message": "Merge pull request #6266 from elprimato/spdx-conform-license\n\nChange to SPDX conform license string",
+    "date": "2023-08-12T18:51:42Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "9b6c62e235429eeaa059544d1516d5e0c58c9a7f",
+    "message": "Merge branch 'main' into spdx-conform-license",
+    "date": "2023-08-12T18:37:15Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__init__.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/__version__.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/_internal_utils.py",
+        "changes": 6,
+        "additions": 4,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/adapters.py",
+        "changes": 72,
+        "additions": 13,
+        "deletions": 59,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/api.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/cookies.py",
+        "changes": 16,
+        "additions": 8,
+        "deletions": 8,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/sessions.py",
+        "changes": 6,
+        "additions": 5,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 36,
+        "additions": 20,
+        "deletions": 16,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/__init__.py",
+        "changes": 14,
+        "additions": 9,
+        "deletions": 5,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "dfe46c1b7f55c9377caecba2119be14d3cce74e5",
+    "message": "refactor: prefer dictionary comphrension to loop (#6187)",
+    "date": "2023-07-30T01:55:18Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/utils.py",
+        "changes": 6,
+        "additions": 1,
+        "deletions": 5,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "2ecdb685619340735fa85d253c4779029957246f",
+    "message": "Update reference to \"cookielib\" to \"cookiejar\" in documentation (#6214)",
+    "date": "2023-07-30T01:50:43Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/cookies.py",
+        "changes": 16,
+        "additions": 8,
+        "deletions": 8,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "fecf3dc472ddc78e20e96ea0b18e1589110c1d5e",
+    "message": "add docstring parameter `hooks` (#6456)",
+    "date": "2023-07-30T01:01:42Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/sessions.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "22db55a8896b69e53d0a3cc2764c27b832c81478",
+    "message": "Fix doc typo (#6467)",
+    "date": "2023-06-26T17:09:23Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/api.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "6e5b15d542a4e85945fd72066bb6cecbc3a82191",
+    "message": "Fix linting issues",
+    "date": "2023-05-22T15:36:22Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/sessions.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "147c8511ddbfa5e8f71bbf5c18ede0c4ceb3bba4",
+    "message": "v2.31.0",
+    "date": "2023-05-22T15:10:32Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "74ea7cf7a6a27a4eeb2ae24e162bcc942a6706d5",
+    "message": "Merge pull request from GHSA-j8r2-6x86-q33q",
+    "date": "2023-05-22T15:08:57Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/sessions.py",
+        "changes": 4,
+        "additions": 3,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "2ad18e0e10e7d7ecd5384c378f25ec8821a10a29",
+    "message": "v2.30.0",
+    "date": "2023-05-03T15:39:44Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__init__.py",
+        "changes": 8,
+        "additions": 4,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "f2629e9e3c7ce3c3c8c025bcd8db551101cbc773",
+    "message": "Remove strict parameter (#6434)",
+    "date": "2023-04-28T19:17:10Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/adapters.py",
+        "changes": 1,
+        "additions": 0,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "87d63de8739263bbe17034fba2285c79780da7e8",
+    "message": "v2.29.0",
+    "date": "2023-04-26T15:19:11Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "26bea1e498d6e234fbc9ce8e07c0389bac73810b",
+    "message": "Use urllib3 native chunking ability (#6226)\n\n* Fix #3844 \r\n* Use urllib for chunked \r\n\r\n---------\r\n\r\nCo-authored-by: James Pickering <james.pickering@xml-solutions.com>\r\nCo-authored-by: Leon Verrall <LVerrall@slb.com>",
+    "date": "2023-04-22T23:32:51Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/adapters.py",
+        "changes": 71,
+        "additions": 13,
+        "deletions": 58,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "7f694b79e114c06fac5ec06019cada5a61e5570f",
+    "message": "Allow str/bytes subclasses to be used as header parts",
+    "date": "2023-02-17T16:17:19Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/_internal_utils.py",
+        "changes": 6,
+        "additions": 4,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 30,
+        "additions": 19,
+        "deletions": 11,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e90852d20c9bc44c465e55234c01432711627d94",
+    "message": "Make json doc strings consistent (#6368)",
+    "date": "2023-03-03T05:32:49Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/api.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "15585909c3dd3014e4083961c8a404709450151c",
+    "message": "Support missing SNIMissingWarning in tests (#6336)",
+    "date": "2023-01-21T08:44:33Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "tests/__init__.py",
+        "changes": 14,
+        "additions": 9,
+        "deletions": 5,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "61c324da43dd8b775d3930d76265538b3ca27bc1",
+    "message": "v2.28.2",
+    "date": "2023-01-12T16:16:09Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "53a0562331c4a825036a347e77984d68b310fcf3",
+    "message": "change to SPDX conform license string",
+    "date": "2022-10-23T18:35:43Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "c57f1f0ca10e61771b459c857182c23626607312",
+    "message": "Allow charset normalizer >=2 and <4 (#6261)",
+    "date": "2022-10-20T18:26:18Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__init__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "bda7f0171f8bba17989d3a2c28dfa9a9261b1b65",
+    "message": "Fixed warnings message to suggest using secure protocol. (#6188)",
+    "date": "2022-06-29T18:41:49Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/models.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "4d394574f5555a8ddcc38f707e0c9f57f55d9a3b",
+    "message": "v2.28.1",
+    "date": "2022-06-29T15:09:11Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "16b418b44a04981ec452df607730079a6178a804",
+    "message": "Use yield from instead of looping yield (#6170)",
+    "date": "2022-06-29T02:08:26Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/models.py",
+        "changes": 3,
+        "additions": 1,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "73793ce43e3d940a0f8d6b9b8ff125617828d8a1",
+    "message": "Update Dependency with `chardet>=3.0.2,<6` (#6179)\n\nhttps://github.com/chardet/chardet/releases/tag/5.0.0 was released on\r\n2022-06-25 with remove of Python 3.6 support, which also align with our\r\nPython > 3.6 requirement.\r\n\r\nSigned-off-by: Wong Hoi Sing Edison <hswong3i@pantarei-design.com>",
+    "date": "2022-06-28T02:25:58Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__init__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "da9996fe4dc63356e9467d0a5e10df3d89a8528e",
+    "message": "v2.28.0",
+    "date": "2022-06-09T14:42:10Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "e36f34597ca96c40dbb81d63a8fe9ac0860b8dc3",
+    "message": "Add valdation for header name (#6154)",
+    "date": "2022-06-08T18:03:56Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/_internal_utils.py",
+        "changes": 11,
+        "additions": 11,
+        "deletions": 0,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 35,
+        "additions": 16,
+        "deletions": 19,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "3af2f456d8c0a90bd6609f2205cd0b2d0f7f800e",
+    "message": "Fix output of test_lowlevel tests in case of timeout (#6136)\n\nSigned-off-by: Olivier Gayot <olivier.gayot@canonical.com>",
+    "date": "2022-06-08T16:02:42Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 3,
+        "additions": 2,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "210095fd08f790a1ce640354a91c1a264a291360",
+    "message": "Tolerate bad registry entries in Windows proxy settings (#6149)",
+    "date": "2022-06-01T17:36:26Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "79f2ec3acc4e24fef6e6ce31ad7b1d4e2f77be31",
+    "message": "Grammar fix (#6133)",
+    "date": "2022-05-13T16:36:13Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/utils.py",
+        "changes": 2,
+        "additions": 1,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "2a6f290bc09324406708a4d404a88a45d848ddf9",
+    "message": "Add automatic code formatting to Requests (#6095)",
+    "date": "2022-04-29T19:16:58Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__init__.py",
+        "changes": 90,
+        "additions": 59,
+        "deletions": 31,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/__version__.py",
+        "changes": 18,
+        "additions": 9,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/_internal_utils.py",
+        "changes": 6,
+        "additions": 2,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/adapters.py",
+        "changes": 223,
+        "additions": 137,
+        "deletions": 86,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/api.py",
+        "changes": 18,
+        "additions": 8,
+        "deletions": 10,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/auth.py",
+        "changes": 156,
+        "additions": 83,
+        "deletions": 73,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/certs.py",
+        "changes": 3,
+        "additions": 1,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/compat.py",
+        "changes": 40,
+        "additions": 28,
+        "deletions": 12,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/cookies.py",
+        "changes": 152,
+        "additions": 82,
+        "deletions": 70,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/exceptions.py",
+        "changes": 12,
+        "additions": 5,
+        "deletions": 7,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/help.py",
+        "changes": 97,
+        "additions": 48,
+        "deletions": 49,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/hooks.py",
+        "changes": 7,
+        "additions": 3,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/models.py",
+        "changes": 316,
+        "additions": 192,
+        "deletions": 124,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/packages.py",
+        "changes": 16,
+        "additions": 9,
+        "deletions": 7,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/sessions.py",
+        "changes": 265,
+        "additions": 161,
+        "deletions": 104,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/status_codes.py",
+        "changes": 169,
+        "additions": 87,
+        "deletions": 82,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/structures.py",
+        "changes": 12,
+        "additions": 3,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 353,
+        "additions": 193,
+        "deletions": 160,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/__init__.py",
+        "changes": 5,
+        "additions": 1,
+        "deletions": 4,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/compat.py",
+        "changes": 1,
+        "additions": 0,
+        "deletions": 1,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/conftest.py",
+        "changes": 15,
+        "additions": 6,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 39,
+        "additions": 22,
+        "deletions": 17,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/utils.py",
+        "changes": 2,
+        "additions": 0,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "2d5517682b3b38547634d153cea43d48fbc8cdb5",
+    "message": "Fix inconsistent exception for JSONDecode error (#6097)\n\nWhen calling .json() it was possible to raise a\r\nrequests.exceptions.JSONDecodeError or ValueError\r\ndepending on whether the encoding is set.",
+    "date": "2022-03-28T18:51:27Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/models.py",
+        "changes": 2,
+        "additions": 2,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "8bce583b9547c7b82d44c8e97f37cf9a16cbe758",
+    "message": "Farewell, sweet Concorde!\n\nFormally removing any remaining vestiges of Python 2 from Requests.\r\nWe'll also leave behind Python 3.6 while we're at it.",
+    "date": "2022-03-25T16:50:33Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/_internal_utils.py",
+        "changes": 7,
+        "additions": 2,
+        "deletions": 5,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/adapters.py",
+        "changes": 7,
+        "additions": 1,
+        "deletions": 6,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/compat.py",
+        "changes": 70,
+        "additions": 26,
+        "deletions": 44,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/help.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/models.py",
+        "changes": 24,
+        "additions": 4,
+        "deletions": 20,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/sessions.py",
+        "changes": 10,
+        "additions": 3,
+        "deletions": 7,
+        "status": "modified"
+      },
+      {
+        "filename": "requests/utils.py",
+        "changes": 10,
+        "additions": 3,
+        "deletions": 7,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/compat.py",
+        "changes": 21,
+        "additions": 12,
+        "deletions": 9,
+        "status": "modified"
+      },
+      {
+        "filename": "tests/testserver/server.py",
+        "changes": 4,
+        "additions": 1,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "79f60274f7e461b8fd2f579e741f748438d7eadb",
+    "message": "Merge pull request #6074 from nateprewitt/curl_ca_bundle\n\nFix environment CA Bundle resolution",
+    "date": "2022-02-26T13:39:28Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/sessions.py",
+        "changes": 19,
+        "additions": 13,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "79c4a017fe341fb989d3a7876cf4e44b87601b58",
+    "message": "Fix environment CA Bundle resolution",
+    "date": "2022-02-25T18:25:20Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/sessions.py",
+        "changes": 19,
+        "additions": 13,
+        "deletions": 6,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "95f456733656ed93645ff0250bfa54f6d256f6fe",
+    "message": "Wrap urllib3's SSLError as requests' SSLError (#6057)",
+    "date": "2022-02-05T18:56:05Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/models.py",
+        "changes": 10,
+        "additions": 9,
+        "deletions": 1,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "fa1b0a367abc8488542f7ce7c02a3614ad8aa09d",
+    "message": "Initialize JsonDecodeError before initializing IOError (#6036)\n\nThat way we get the formated error message\r\n\r\nCo-authored-by: Peter <cHYzZQo@netflix.com>",
+    "date": "2022-01-13T15:42:49Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/exceptions.py",
+        "changes": 10,
+        "additions": 10,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "31a89d9c8463c3394ca00f408f4b86d814421a09",
+    "message": "v2.27.1",
+    "date": "2022-01-05T15:35:04Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 4,
+        "additions": 2,
+        "deletions": 2,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "8fa9724398c4f44090997ff430a1dd3e935a9057",
+    "message": "Merge pull request #6028 from nateprewitt/prox_auth_fix\n\nFix auth parsing for proxies",
+    "date": "2022-01-04T16:04:25Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/utils.py",
+        "changes": 4,
+        "additions": 4,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "38f3f8ecb93cadfac03a6b7b3173018ac829d0cf",
+    "message": "Fix auth parsing for proxies\n\nCo-authored-by: adamp01 <@adamp01>",
+    "date": "2022-01-04T15:26:59Z",
+    "is_bug_fix": true,
+    "files": [
+      {
+        "filename": "requests/utils.py",
+        "changes": 4,
+        "additions": 4,
+        "deletions": 0,
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "sha": "0192aac24123735b3eaf9b08df46429bb770c283",
+    "message": "v2.27.0",
+    "date": "2021-12-29T04:51:40Z",
+    "is_bug_fix": false,
+    "files": [
+      {
+        "filename": "requests/__version__.py",
+        "changes": 6,
+        "additions": 3,
+        "deletions": 3,
+        "status": "modified"
+      }
+    ]
+  }
+]
